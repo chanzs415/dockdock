@@ -1,0 +1,8 @@
+#run in /bin/bash
+docker run -it (imagename) /bin/bash
+
+#run this line to start spark in scala
+spark-shell
+
+#to start container again after stopping
+docker start -i (containername)
