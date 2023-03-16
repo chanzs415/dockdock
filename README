@@ -2,7 +2,7 @@
 docker run -it (imagename) /bin/bash
 
 #edited
-#run this line to start spark (pyspark to run spark using python code)
+#run this line to start spark (pyspark to use spark using python code)
 ./bin/pyspark
 
 #to start container again after stopping
