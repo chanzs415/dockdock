@@ -1,8 +1,9 @@
 #run in /bin/bash
 docker run -it (imagename) /bin/bash
 
-#run this line to start spark in scala
-spark-shell
+#edited
+#run this line to start spark (pyspark to run spark using python code)
+./bin/pyspark
 
 #to start container again after stopping
 docker start -i (containername)
